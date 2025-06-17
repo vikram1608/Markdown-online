@@ -1,7 +1,7 @@
 ## Skills
 
 #### Frontend
-![Logo](https://www.figma.com/community/file/1132891950238141302/programming-language-logos-icons-free-editable)
+![Logo](https://stock.adobe.com/search?k=programming+logo)
 - HTML 
 - CSS
 - JS
