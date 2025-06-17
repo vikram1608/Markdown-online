@@ -1,7 +1,7 @@
 ## Skills
 
 #### Frontend
-![Logo](https://stock.adobe.com/search?k=programming+logo)
+![Logo](https://www.shutterstock.com/image-vector/programming-language-icons-set-css-html-2223732647)
 - HTML 
 - CSS
 - JS
